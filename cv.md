@@ -21,6 +21,33 @@ Student [RSSchool](https://rs.school/)
 - Test (Jest/Mocha)
   
 
+### CODE EXAMPLE
+
+```
+* Create a method each_cons thet accepts a list and numbers n, and 
+* returns cascading subsets of the list of size n, like so:
+* each_cons([1,2,3,4], 2)
+* #=> [[1,2], [2,3], [3,4]]
+
+function eachCons(array, n) {
+    let res = [];
+
+    for(let i = 0; i < attay.lenght; i++){
+        res.push(array.slice(i,i + n));
+    }
+
+    return res.filter(e => e.length === n);
+}
+```
+*Source*: [My codewars accaunt](https://www.codewars.com/users/kaswister)
+
+### WORK EXPERIENCE
+
+I have not commercial work experience, but I have "pet-project":
+
+- [GoTrip landing page](https://github.com/kaswister/GoTrip-Landing)
+
+
 ### EDUCATION
 
 ##### FUNDAMENTAL
