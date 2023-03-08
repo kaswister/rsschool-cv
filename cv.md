@@ -2,7 +2,7 @@
 Student [RSSchool](https://rs.school/)
 
 ### CONTACT ME
-- email:  yslfm0@gmail.com 
+- email:  <yslfm0@gmail.com>
 - Discord [Kirill (@kaswister)](https://discordapp.com/users/1061379352794771499/)
 - Github [kaswister](https://github.com/kaswister)
 
